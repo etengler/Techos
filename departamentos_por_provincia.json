@@ -1,0 +1,2162 @@
+{
+  "Buenos Aires": [
+    {
+      "Departamento": "9 de Julio",
+      "Codigo": 6588
+    },
+    {
+      "Departamento": "Adolfo Alsina",
+      "Codigo": 6007
+    },
+    {
+      "Departamento": "Adolfo Gonzales Chaves",
+      "Codigo": 6014
+    },
+    {
+      "Departamento": "Alberti",
+      "Codigo": 6021
+    },
+    {
+      "Departamento": "Almirante Brown",
+      "Codigo": 6028
+    },
+    {
+      "Departamento": "Arrecifes",
+      "Codigo": 6077
+    },
+    {
+      "Departamento": "Avellaneda",
+      "Codigo": 6035
+    },
+    {
+      "Departamento": "Ayacucho",
+      "Codigo": 6042
+    },
+    {
+      "Departamento": "Azul",
+      "Codigo": 6049
+    },
+    {
+      "Departamento": "Bahía Blanca",
+      "Codigo": 6056
+    },
+    {
+      "Departamento": "Balcarce",
+      "Codigo": 6063
+    },
+    {
+      "Departamento": "Baradero",
+      "Codigo": 6070
+    },
+    {
+      "Departamento": "Benito Juárez",
+      "Codigo": 6084
+    },
+    {
+      "Departamento": "Berazategui",
+      "Codigo": 6091
+    },
+    {
+      "Departamento": "Berisso",
+      "Codigo": 6098
+    },
+    {
+      "Departamento": "Bolívar",
+      "Codigo": 6105
+    },
+    {
+      "Departamento": "Bragado",
+      "Codigo": 6112
+    },
+    {
+      "Departamento": "Brandsen",
+      "Codigo": 6119
+    },
+    {
+      "Departamento": "Campana",
+      "Codigo": 6126
+    },
+    {
+      "Departamento": "Cañuelas",
+      "Codigo": 6134
+    },
+    {
+      "Departamento": "Capitán Sarmiento",
+      "Codigo": 6140
+    },
+    {
+      "Departamento": "Carlos Casares",
+      "Codigo": 6147
+    },
+    {
+      "Departamento": "Carlos Tejedor",
+      "Codigo": 6154
+    },
+    {
+      "Departamento": "Carmen de Areco",
+      "Codigo": 6161
+    },
+    {
+      "Departamento": "Castelli",
+      "Codigo": 6168
+    },
+    {
+      "Departamento": "Chacabuco",
+      "Codigo": 6210
+    },
+    {
+      "Departamento": "Chascomús",
+      "Codigo": 6218
+    },
+    {
+      "Departamento": "Chivilcoy",
+      "Codigo": 6224
+    },
+    {
+      "Departamento": "Colón",
+      "Codigo": 6175
+    },
+    {
+      "Departamento": "Coronel de Marina Leonardo Rosales",
+      "Codigo": 6182
+    },
+    {
+      "Departamento": "Coronel Dorrego",
+      "Codigo": 6189
+    },
+    {
+      "Departamento": "Coronel Pringles",
+      "Codigo": 6196
+    },
+    {
+      "Departamento": "Coronel Suárez",
+      "Codigo": 6203
+    },
+    {
+      "Departamento": "Daireaux",
+      "Codigo": 6231
+    },
+    {
+      "Departamento": "Dolores",
+      "Codigo": 6238
+    },
+    {
+      "Departamento": "Ensenada",
+      "Codigo": 6245
+    },
+    {
+      "Departamento": "Escobar",
+      "Codigo": 6252
+    },
+    {
+      "Departamento": "Esteban Echeverría",
+      "Codigo": 6260
+    },
+    {
+      "Departamento": "Exaltación de la Cruz",
+      "Codigo": 6266
+    },
+    {
+      "Departamento": "Ezeiza",
+      "Codigo": 6270
+    },
+    {
+      "Departamento": "Florencio Varela",
+      "Codigo": 6274
+    },
+    {
+      "Departamento": "Florentino Ameghino",
+      "Codigo": 6277
+    },
+    {
+      "Departamento": "General Alvarado",
+      "Codigo": 6280
+    },
+    {
+      "Departamento": "General Alvear",
+      "Codigo": 6287
+    },
+    {
+      "Departamento": "General Arenales",
+      "Codigo": 6294
+    },
+    {
+      "Departamento": "General Belgrano",
+      "Codigo": 6301
+    },
+    {
+      "Departamento": "General Guido",
+      "Codigo": 6308
+    },
+    {
+      "Departamento": "General Juan Madariaga",
+      "Codigo": 6315
+    },
+    {
+      "Departamento": "General La Madrid",
+      "Codigo": 6322
+    },
+    {
+      "Departamento": "General Las Heras",
+      "Codigo": 6329
+    },
+    {
+      "Departamento": "General Lavalle",
+      "Codigo": 6336
+    },
+    {
+      "Departamento": "General Paz",
+      "Codigo": 6343
+    },
+    {
+      "Departamento": "General Pinto",
+      "Codigo": 6351
+    },
+    {
+      "Departamento": "General Pueyrredón",
+      "Codigo": 6357
+    },
+    {
+      "Departamento": "General Rodríguez",
+      "Codigo": 6364
+    },
+    {
+      "Departamento": "General San Martín",
+      "Codigo": 6371
+    },
+    {
+      "Departamento": "General Viamonte",
+      "Codigo": 6385
+    },
+    {
+      "Departamento": "General Villegas",
+      "Codigo": 6392
+    },
+    {
+      "Departamento": "Guaminí",
+      "Codigo": 6399
+    },
+    {
+      "Departamento": "Hipólito Yrigoyen",
+      "Codigo": 6406
+    },
+    {
+      "Departamento": "Hurlingham",
+      "Codigo": 6408
+    },
+    {
+      "Departamento": "Ituzaingó",
+      "Codigo": 6410
+    },
+    {
+      "Departamento": "José C. Paz",
+      "Codigo": 6412
+    },
+    {
+      "Departamento": "Junín",
+      "Codigo": 6413
+    },
+    {
+      "Departamento": "La Costa",
+      "Codigo": 6420
+    },
+    {
+      "Departamento": "La Matanza",
+      "Codigo": 6427
+    },
+    {
+      "Departamento": "La Plata",
+      "Codigo": 6441
+    },
+    {
+      "Departamento": "Lanús",
+      "Codigo": 6434
+    },
+    {
+      "Departamento": "Laprida",
+      "Codigo": 6448
+    },
+    {
+      "Departamento": "Las Flores",
+      "Codigo": 6455
+    },
+    {
+      "Departamento": "Leandro N. Alem",
+      "Codigo": 6462
+    },
+    {
+      "Departamento": "Lezama",
+      "Codigo": 6466
+    },
+    {
+      "Departamento": "Lincoln",
+      "Codigo": 6469
+    },
+    {
+      "Departamento": "Lobería",
+      "Codigo": 6476
+    },
+    {
+      "Departamento": "Lobos",
+      "Codigo": 6483
+    },
+    {
+      "Departamento": "Lomas de Zamora",
+      "Codigo": 6490
+    },
+    {
+      "Departamento": "Luján",
+      "Codigo": 6497
+    },
+    {
+      "Departamento": "Magdalena",
+      "Codigo": 6505
+    },
+    {
+      "Departamento": "Maipú",
+      "Codigo": 6511
+    },
+    {
+      "Departamento": "Malvinas Argentinas",
+      "Codigo": 6515
+    },
+    {
+      "Departamento": "Mar Chiquita",
+      "Codigo": 6518
+    },
+    {
+      "Departamento": "Marcos Paz",
+      "Codigo": 6525
+    },
+    {
+      "Departamento": "Mercedes",
+      "Codigo": 6532
+    },
+    {
+      "Departamento": "Merlo",
+      "Codigo": 6539
+    },
+    {
+      "Departamento": "Monte",
+      "Codigo": 6547
+    },
+    {
+      "Departamento": "Monte Hermoso",
+      "Codigo": 6553
+    },
+    {
+      "Departamento": "Moreno",
+      "Codigo": 6560
+    },
+    {
+      "Departamento": "Morón",
+      "Codigo": 6568
+    },
+    {
+      "Departamento": "Navarro",
+      "Codigo": 6574
+    },
+    {
+      "Departamento": "Necochea",
+      "Codigo": 6581
+    },
+    {
+      "Departamento": "Olavarría",
+      "Codigo": 6595
+    },
+    {
+      "Departamento": "Patagones",
+      "Codigo": 6602
+    },
+    {
+      "Departamento": "Pehuajó",
+      "Codigo": 6609
+    },
+    {
+      "Departamento": "Pellegrini",
+      "Codigo": 6616
+    },
+    {
+      "Departamento": "Pergamino",
+      "Codigo": 6623
+    },
+    {
+      "Departamento": "Pila",
+      "Codigo": 6630
+    },
+    {
+      "Departamento": "Pilar",
+      "Codigo": 6638
+    },
+    {
+      "Departamento": "Pinamar",
+      "Codigo": 6644
+    },
+    {
+      "Departamento": "Presidente Perón",
+      "Codigo": 6648
+    },
+    {
+      "Departamento": "Puán",
+      "Codigo": 6651
+    },
+    {
+      "Departamento": "Punta Indio",
+      "Codigo": 6655
+    },
+    {
+      "Departamento": "Quilmes",
+      "Codigo": 6658
+    },
+    {
+      "Departamento": "Ramallo",
+      "Codigo": 6665
+    },
+    {
+      "Departamento": "Rauch",
+      "Codigo": 6672
+    },
+    {
+      "Departamento": "Rivadavia",
+      "Codigo": 6679
+    },
+    {
+      "Departamento": "Rojas",
+      "Codigo": 6686
+    },
+    {
+      "Departamento": "Roque Pérez",
+      "Codigo": 6693
+    },
+    {
+      "Departamento": "Saavedra",
+      "Codigo": 6700
+    },
+    {
+      "Departamento": "Saladillo",
+      "Codigo": 6707
+    },
+    {
+      "Departamento": "Salliqueló",
+      "Codigo": 6721
+    },
+    {
+      "Departamento": "Salto",
+      "Codigo": 6714
+    },
+    {
+      "Departamento": "San Andrés de Giles",
+      "Codigo": 6728
+    },
+    {
+      "Departamento": "San Antonio de Areco",
+      "Codigo": 6735
+    },
+    {
+      "Departamento": "San Cayetano",
+      "Codigo": 6742
+    },
+    {
+      "Departamento": "San Fernando",
+      "Codigo": 6749
+    },
+    {
+      "Departamento": "San Isidro",
+      "Codigo": 6756
+    },
+    {
+      "Departamento": "San Miguel",
+      "Codigo": 6760
+    },
+    {
+      "Departamento": "San Nicolás",
+      "Codigo": 6763
+    },
+    {
+      "Departamento": "San Pedro",
+      "Codigo": 6770
+    },
+    {
+      "Departamento": "San Vicente",
+      "Codigo": 6778
+    },
+    {
+      "Departamento": "Suipacha",
+      "Codigo": 6784
+    },
+    {
+      "Departamento": "Tandil",
+      "Codigo": 6791
+    },
+    {
+      "Departamento": "Tapalqué",
+      "Codigo": 6798
+    },
+    {
+      "Departamento": "Tigre",
+      "Codigo": 6805
+    },
+    {
+      "Departamento": "Tordillo",
+      "Codigo": 6812
+    },
+    {
+      "Departamento": "Tornquist",
+      "Codigo": 6819
+    },
+    {
+      "Departamento": "Trenque Lauquen",
+      "Codigo": 6826
+    },
+    {
+      "Departamento": "Tres Arroyos",
+      "Codigo": 6833
+    },
+    {
+      "Departamento": "Tres de Febrero",
+      "Codigo": 6840
+    },
+    {
+      "Departamento": "Tres Lomas",
+      "Codigo": 6847
+    },
+    {
+      "Departamento": "Vicente López",
+      "Codigo": 6861
+    },
+    {
+      "Departamento": "Villa Gesell",
+      "Codigo": 6868
+    },
+    {
+      "Departamento": "Villarino",
+      "Codigo": 6875
+    },
+    {
+      "Departamento": "Zárate",
+      "Codigo": 6882
+    }
+  ],
+  "Catamarca": [
+    {
+      "Departamento": "Ambato",
+      "Codigo": 10007
+    },
+    {
+      "Departamento": "Ancasti",
+      "Codigo": 10014
+    },
+    {
+      "Departamento": "Andalgalá",
+      "Codigo": 10021
+    },
+    {
+      "Departamento": "Antofagasta de la Sierra",
+      "Codigo": 10028
+    },
+    {
+      "Departamento": "Belén",
+      "Codigo": 10035
+    },
+    {
+      "Departamento": "Capayán",
+      "Codigo": 10042
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 10049
+    },
+    {
+      "Departamento": "El Alto",
+      "Codigo": 10056
+    },
+    {
+      "Departamento": "Fray Mamerto Esquiú",
+      "Codigo": 10063
+    },
+    {
+      "Departamento": "La Paz",
+      "Codigo": 10070
+    },
+    {
+      "Departamento": "Paclín",
+      "Codigo": 10077
+    },
+    {
+      "Departamento": "Pomán",
+      "Codigo": 10084
+    },
+    {
+      "Departamento": "Santa María",
+      "Codigo": 10091
+    },
+    {
+      "Departamento": "Santa Rosa",
+      "Codigo": 10098
+    },
+    {
+      "Departamento": "Tinogasta",
+      "Codigo": 10105
+    },
+    {
+      "Departamento": "Valle Viejo",
+      "Codigo": 10112
+    }
+  ],
+  "Chaco": [
+    {
+      "Departamento": "1° de Mayo",
+      "Codigo": 22126
+    },
+    {
+      "Departamento": "12 de Octubre",
+      "Codigo": 22036
+    },
+    {
+      "Departamento": "2 de Abril",
+      "Codigo": 22039
+    },
+    {
+      "Departamento": "25 de Mayo",
+      "Codigo": 22168
+    },
+    {
+      "Departamento": "9 de Julio",
+      "Codigo": 22105
+    },
+    {
+      "Departamento": "Almirante Brown",
+      "Codigo": 22007
+    },
+    {
+      "Departamento": "Bermejo",
+      "Codigo": 22014
+    },
+    {
+      "Departamento": "Chacabuco",
+      "Codigo": 22028
+    },
+    {
+      "Departamento": "Comandante Fernández",
+      "Codigo": 22021
+    },
+    {
+      "Departamento": "Fray Justo Santa María de Oro",
+      "Codigo": 22043
+    },
+    {
+      "Departamento": "General Belgrano",
+      "Codigo": 22049
+    },
+    {
+      "Departamento": "General Donovan",
+      "Codigo": 22056
+    },
+    {
+      "Departamento": "General Güemes",
+      "Codigo": 22063
+    },
+    {
+      "Departamento": "Independencia",
+      "Codigo": 22070
+    },
+    {
+      "Departamento": "Libertad",
+      "Codigo": 22077
+    },
+    {
+      "Departamento": "Libertador General San Martín",
+      "Codigo": 22084
+    },
+    {
+      "Departamento": "Maipú",
+      "Codigo": 22091
+    },
+    {
+      "Departamento": "Mayor Luis J. Fontana",
+      "Codigo": 22098
+    },
+    {
+      "Departamento": "O'Higgins",
+      "Codigo": 22112
+    },
+    {
+      "Departamento": "Presidencia de la Plaza",
+      "Codigo": 22119
+    },
+    {
+      "Departamento": "Quitilipi",
+      "Codigo": 22133
+    },
+    {
+      "Departamento": "San Fernando",
+      "Codigo": 22140
+    },
+    {
+      "Departamento": "San Lorenzo",
+      "Codigo": 22147
+    },
+    {
+      "Departamento": "Sargento Cabral",
+      "Codigo": 22154
+    },
+    {
+      "Departamento": "Tapenagá",
+      "Codigo": 22161
+    }
+  ],
+  "Chubut": [
+    {
+      "Departamento": "Biedma",
+      "Codigo": 26007
+    },
+    {
+      "Departamento": "Cushamen",
+      "Codigo": 26014
+    },
+    {
+      "Departamento": "Escalante",
+      "Codigo": 26021
+    },
+    {
+      "Departamento": "Florentino Ameghino",
+      "Codigo": 26028
+    },
+    {
+      "Departamento": "Futaleufú",
+      "Codigo": 26035
+    },
+    {
+      "Departamento": "Gaiman",
+      "Codigo": 26042
+    },
+    {
+      "Departamento": "Gastre",
+      "Codigo": 26049
+    },
+    {
+      "Departamento": "Languiñeo",
+      "Codigo": 26056
+    },
+    {
+      "Departamento": "Mártires",
+      "Codigo": 26063
+    },
+    {
+      "Departamento": "Paso de Indios",
+      "Codigo": 26070
+    },
+    {
+      "Departamento": "Rawson",
+      "Codigo": 26077
+    },
+    {
+      "Departamento": "Río Senguer",
+      "Codigo": 26084
+    },
+    {
+      "Departamento": "Sarmiento",
+      "Codigo": 26091
+    },
+    {
+      "Departamento": "Tehuelches",
+      "Codigo": 26098
+    },
+    {
+      "Departamento": "Telsen",
+      "Codigo": 26105
+    }
+  ],
+  "Ciudad Autónoma de Buenos Aires": [
+    {
+      "Departamento": "Comuna 1",
+      "Codigo": 2007
+    },
+    {
+      "Departamento": "Comuna 10",
+      "Codigo": 2070
+    },
+    {
+      "Departamento": "Comuna 11",
+      "Codigo": 2077
+    },
+    {
+      "Departamento": "Comuna 12",
+      "Codigo": 2084
+    },
+    {
+      "Departamento": "Comuna 13",
+      "Codigo": 2091
+    },
+    {
+      "Departamento": "Comuna 14",
+      "Codigo": 2098
+    },
+    {
+      "Departamento": "Comuna 15",
+      "Codigo": 2105
+    },
+    {
+      "Departamento": "Comuna 2",
+      "Codigo": 2014
+    },
+    {
+      "Departamento": "Comuna 3",
+      "Codigo": 2021
+    },
+    {
+      "Departamento": "Comuna 4",
+      "Codigo": 2028
+    },
+    {
+      "Departamento": "Comuna 5",
+      "Codigo": 2035
+    },
+    {
+      "Departamento": "Comuna 6",
+      "Codigo": 2042
+    },
+    {
+      "Departamento": "Comuna 7",
+      "Codigo": 2049
+    },
+    {
+      "Departamento": "Comuna 8",
+      "Codigo": 2056
+    },
+    {
+      "Departamento": "Comuna 9",
+      "Codigo": 2063
+    }
+  ],
+  "Corrientes": [
+    {
+      "Departamento": "Bella Vista",
+      "Codigo": 18007
+    },
+    {
+      "Departamento": "Berón de Astrada",
+      "Codigo": 18014
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 18021
+    },
+    {
+      "Departamento": "Concepción",
+      "Codigo": 18028
+    },
+    {
+      "Departamento": "Curuzú Cuatiá",
+      "Codigo": 18035
+    },
+    {
+      "Departamento": "Empedrado",
+      "Codigo": 18042
+    },
+    {
+      "Departamento": "Esquina",
+      "Codigo": 18049
+    },
+    {
+      "Departamento": "General Alvear",
+      "Codigo": 18056
+    },
+    {
+      "Departamento": "General Paz",
+      "Codigo": 18063
+    },
+    {
+      "Departamento": "Goya",
+      "Codigo": 18070
+    },
+    {
+      "Departamento": "Itatí",
+      "Codigo": 18077
+    },
+    {
+      "Departamento": "Ituzaingó",
+      "Codigo": 18084
+    },
+    {
+      "Departamento": "Lavalle",
+      "Codigo": 18091
+    },
+    {
+      "Departamento": "Mburucuyá",
+      "Codigo": 18098
+    },
+    {
+      "Departamento": "Mercedes",
+      "Codigo": 18105
+    },
+    {
+      "Departamento": "Monte Caseros",
+      "Codigo": 18112
+    },
+    {
+      "Departamento": "Paso de los Libres",
+      "Codigo": 18119
+    },
+    {
+      "Departamento": "Saladas",
+      "Codigo": 18126
+    },
+    {
+      "Departamento": "San Cosme",
+      "Codigo": 18133
+    },
+    {
+      "Departamento": "San Luis del Palmar",
+      "Codigo": 18140
+    },
+    {
+      "Departamento": "San Martín",
+      "Codigo": 18147
+    },
+    {
+      "Departamento": "San Miguel",
+      "Codigo": 18154
+    },
+    {
+      "Departamento": "San Roque",
+      "Codigo": 18161
+    },
+    {
+      "Departamento": "Santo Tomé",
+      "Codigo": 18168
+    },
+    {
+      "Departamento": "Sauce",
+      "Codigo": 18175
+    }
+  ],
+  "Córdoba": [
+    {
+      "Departamento": "Calamuchita",
+      "Codigo": 14007
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 14014
+    },
+    {
+      "Departamento": "Colón",
+      "Codigo": 14021
+    },
+    {
+      "Departamento": "Cruz del Eje",
+      "Codigo": 14028
+    },
+    {
+      "Departamento": "General Roca",
+      "Codigo": 14035
+    },
+    {
+      "Departamento": "General San Martín",
+      "Codigo": 14042
+    },
+    {
+      "Departamento": "Ischilín",
+      "Codigo": 14049
+    },
+    {
+      "Departamento": "Juárez Celman",
+      "Codigo": 14056
+    },
+    {
+      "Departamento": "Marcos Juárez",
+      "Codigo": 14063
+    },
+    {
+      "Departamento": "Minas",
+      "Codigo": 14070
+    },
+    {
+      "Departamento": "Pocho",
+      "Codigo": 14077
+    },
+    {
+      "Departamento": "Presidente Roque Sáenz Peña",
+      "Codigo": 14084
+    },
+    {
+      "Departamento": "Punilla",
+      "Codigo": 14091
+    },
+    {
+      "Departamento": "Río Cuarto",
+      "Codigo": 14098
+    },
+    {
+      "Departamento": "Río Primero",
+      "Codigo": 14105
+    },
+    {
+      "Departamento": "Río Seco",
+      "Codigo": 14112
+    },
+    {
+      "Departamento": "Río Segundo",
+      "Codigo": 14119
+    },
+    {
+      "Departamento": "San Alberto",
+      "Codigo": 14126
+    },
+    {
+      "Departamento": "San Javier",
+      "Codigo": 14133
+    },
+    {
+      "Departamento": "San Justo",
+      "Codigo": 14140
+    },
+    {
+      "Departamento": "Santa María",
+      "Codigo": 14147
+    },
+    {
+      "Departamento": "Sobremonte",
+      "Codigo": 14154
+    },
+    {
+      "Departamento": "Tercero Arriba",
+      "Codigo": 14161
+    },
+    {
+      "Departamento": "Totoral",
+      "Codigo": 14168
+    },
+    {
+      "Departamento": "Tulumba",
+      "Codigo": 14175
+    },
+    {
+      "Departamento": "Unión",
+      "Codigo": 14182
+    }
+  ],
+  "Entre Ríos": [
+    {
+      "Departamento": "Colón",
+      "Codigo": 30008
+    },
+    {
+      "Departamento": "Concordia",
+      "Codigo": 30015
+    },
+    {
+      "Departamento": "Diamante",
+      "Codigo": 30021
+    },
+    {
+      "Departamento": "Federación",
+      "Codigo": 30028
+    },
+    {
+      "Departamento": "Federal",
+      "Codigo": 30035
+    },
+    {
+      "Departamento": "Feliciano",
+      "Codigo": 30042
+    },
+    {
+      "Departamento": "Gualeguay",
+      "Codigo": 30049
+    },
+    {
+      "Departamento": "Gualeguaychú",
+      "Codigo": 30056
+    },
+    {
+      "Departamento": "Islas del Ibicuy",
+      "Codigo": 30063
+    },
+    {
+      "Departamento": "La Paz",
+      "Codigo": 30070
+    },
+    {
+      "Departamento": "Nogoyá",
+      "Codigo": 30077
+    },
+    {
+      "Departamento": "Paraná",
+      "Codigo": 30084
+    },
+    {
+      "Departamento": "San Salvador",
+      "Codigo": 30088
+    },
+    {
+      "Departamento": "Tala",
+      "Codigo": 30091
+    },
+    {
+      "Departamento": "Uruguay",
+      "Codigo": 30098
+    },
+    {
+      "Departamento": "Victoria",
+      "Codigo": 30105
+    },
+    {
+      "Departamento": "Villaguay",
+      "Codigo": 30113
+    }
+  ],
+  "Formosa": [
+    {
+      "Departamento": "Bermejo",
+      "Codigo": 34007
+    },
+    {
+      "Departamento": "Formosa",
+      "Codigo": 34014
+    },
+    {
+      "Departamento": "Laishi",
+      "Codigo": 34021
+    },
+    {
+      "Departamento": "Matacos",
+      "Codigo": 34028
+    },
+    {
+      "Departamento": "Patiño",
+      "Codigo": 34035
+    },
+    {
+      "Departamento": "Pilagás",
+      "Codigo": 34042
+    },
+    {
+      "Departamento": "Pilcomayo",
+      "Codigo": 34049
+    },
+    {
+      "Departamento": "Pirané",
+      "Codigo": 34056
+    },
+    {
+      "Departamento": "Ramón Lista",
+      "Codigo": 34063
+    }
+  ],
+  "Jujuy": [
+    {
+      "Departamento": "Cochinoca",
+      "Codigo": 38007
+    },
+    {
+      "Departamento": "Dr. Manuel Belgrano",
+      "Codigo": 38021
+    },
+    {
+      "Departamento": "El Carmen",
+      "Codigo": 38014
+    },
+    {
+      "Departamento": "Humahuaca",
+      "Codigo": 38028
+    },
+    {
+      "Departamento": "Ledesma",
+      "Codigo": 38035
+    },
+    {
+      "Departamento": "Palpalá",
+      "Codigo": 38042
+    },
+    {
+      "Departamento": "Rinconada",
+      "Codigo": 38049
+    },
+    {
+      "Departamento": "San Antonio",
+      "Codigo": 38056
+    },
+    {
+      "Departamento": "San Pedro",
+      "Codigo": 38063
+    },
+    {
+      "Departamento": "Santa Bárbara",
+      "Codigo": 38070
+    },
+    {
+      "Departamento": "Santa Catalina",
+      "Codigo": 38077
+    },
+    {
+      "Departamento": "Susques",
+      "Codigo": 38084
+    },
+    {
+      "Departamento": "Tilcara",
+      "Codigo": 38094
+    },
+    {
+      "Departamento": "Tumbaya",
+      "Codigo": 38098
+    },
+    {
+      "Departamento": "Valle Grande",
+      "Codigo": 38105
+    },
+    {
+      "Departamento": "Yavi",
+      "Codigo": 38112
+    }
+  ],
+  "La Pampa": [
+    {
+      "Departamento": "Atreucó",
+      "Codigo": 42007
+    },
+    {
+      "Departamento": "Caleu Caleu",
+      "Codigo": 42014
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 42021
+    },
+    {
+      "Departamento": "Catriló",
+      "Codigo": 42028
+    },
+    {
+      "Departamento": "Chalileo",
+      "Codigo": 42049
+    },
+    {
+      "Departamento": "Chapaleufú",
+      "Codigo": 42056
+    },
+    {
+      "Departamento": "Chical Co",
+      "Codigo": 42063
+    },
+    {
+      "Departamento": "Conhelo",
+      "Codigo": 42035
+    },
+    {
+      "Departamento": "Curacó",
+      "Codigo": 42042
+    },
+    {
+      "Departamento": "Guatraché",
+      "Codigo": 42070
+    },
+    {
+      "Departamento": "Hucal",
+      "Codigo": 42077
+    },
+    {
+      "Departamento": "Lihuel Calel",
+      "Codigo": 42084
+    },
+    {
+      "Departamento": "Limay Mahuida",
+      "Codigo": 42091
+    },
+    {
+      "Departamento": "Loventué",
+      "Codigo": 42098
+    },
+    {
+      "Departamento": "Maracó",
+      "Codigo": 42105
+    },
+    {
+      "Departamento": "Puelén",
+      "Codigo": 42112
+    },
+    {
+      "Departamento": "Quemú Quemú",
+      "Codigo": 42119
+    },
+    {
+      "Departamento": "Rancul",
+      "Codigo": 42126
+    },
+    {
+      "Departamento": "Realicó",
+      "Codigo": 42133
+    },
+    {
+      "Departamento": "Toay",
+      "Codigo": 42140
+    },
+    {
+      "Departamento": "Trenel",
+      "Codigo": 42147
+    },
+    {
+      "Departamento": "Utracán",
+      "Codigo": 42154
+    }
+  ],
+  "La Rioja": [
+    {
+      "Departamento": "Ángel Vicente Peñaloza",
+      "Codigo": 46056
+    },
+    {
+      "Departamento": "Arauco",
+      "Codigo": 46007
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 46014
+    },
+    {
+      "Departamento": "Castro Barros",
+      "Codigo": 46021
+    },
+    {
+      "Departamento": "Chamical",
+      "Codigo": 46035
+    },
+    {
+      "Departamento": "Chilecito",
+      "Codigo": 46042
+    },
+    {
+      "Departamento": "Famatina",
+      "Codigo": 46049
+    },
+    {
+      "Departamento": "General Belgrano",
+      "Codigo": 46063
+    },
+    {
+      "Departamento": "General Felipe Varela",
+      "Codigo": 46028
+    },
+    {
+      "Departamento": "General Juan Facundo Quiroga",
+      "Codigo": 46070
+    },
+    {
+      "Departamento": "General Lamadrid",
+      "Codigo": 46077
+    },
+    {
+      "Departamento": "General Ortiz de Ocampo",
+      "Codigo": 46084
+    },
+    {
+      "Departamento": "General San Martín",
+      "Codigo": 46091
+    },
+    {
+      "Departamento": "Independencia",
+      "Codigo": 46105
+    },
+    {
+      "Departamento": "Rosario Vera Peñaloza",
+      "Codigo": 46112
+    },
+    {
+      "Departamento": "San Blas de Los Sauces",
+      "Codigo": 46119
+    },
+    {
+      "Departamento": "Sanagasta",
+      "Codigo": 46126
+    },
+    {
+      "Departamento": "Vinchina",
+      "Codigo": 46098
+    }
+  ],
+  "Mendoza": [
+    {
+      "Departamento": "Capital",
+      "Codigo": 50007
+    },
+    {
+      "Departamento": "General Alvear",
+      "Codigo": 50014
+    },
+    {
+      "Departamento": "Godoy Cruz",
+      "Codigo": 50021
+    },
+    {
+      "Departamento": "Guaymallén",
+      "Codigo": 50028
+    },
+    {
+      "Departamento": "Junín",
+      "Codigo": 50035
+    },
+    {
+      "Departamento": "La Paz",
+      "Codigo": 50042
+    },
+    {
+      "Departamento": "Las Heras",
+      "Codigo": 50049
+    },
+    {
+      "Departamento": "Lavalle",
+      "Codigo": 50056
+    },
+    {
+      "Departamento": "Luján de Cuyo",
+      "Codigo": 50063
+    },
+    {
+      "Departamento": "Maipú",
+      "Codigo": 50070
+    },
+    {
+      "Departamento": "Malargüe",
+      "Codigo": 50077
+    },
+    {
+      "Departamento": "Rivadavia",
+      "Codigo": 50084
+    },
+    {
+      "Departamento": "San Carlos",
+      "Codigo": 50091
+    },
+    {
+      "Departamento": "San Martín",
+      "Codigo": 50098
+    },
+    {
+      "Departamento": "San Rafael",
+      "Codigo": 50105
+    },
+    {
+      "Departamento": "Santa Rosa",
+      "Codigo": 50112
+    },
+    {
+      "Departamento": "Tunuyán",
+      "Codigo": 50119
+    },
+    {
+      "Departamento": "Tupungato",
+      "Codigo": 50126
+    }
+  ],
+  "Misiones": [
+    {
+      "Departamento": "25 de Mayo",
+      "Codigo": 54119
+    },
+    {
+      "Departamento": "Apóstoles",
+      "Codigo": 54007
+    },
+    {
+      "Departamento": "Cainguás",
+      "Codigo": 54014
+    },
+    {
+      "Departamento": "Candelaria",
+      "Codigo": 54021
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 54028
+    },
+    {
+      "Departamento": "Concepción",
+      "Codigo": 54035
+    },
+    {
+      "Departamento": "Eldorado",
+      "Codigo": 54042
+    },
+    {
+      "Departamento": "General Manuel Belgrano",
+      "Codigo": 54049
+    },
+    {
+      "Departamento": "Guaraní",
+      "Codigo": 54056
+    },
+    {
+      "Departamento": "Iguazú",
+      "Codigo": 54063
+    },
+    {
+      "Departamento": "Leandro N. Alem",
+      "Codigo": 54070
+    },
+    {
+      "Departamento": "Libertador General San Martín",
+      "Codigo": 54077
+    },
+    {
+      "Departamento": "Montecarlo",
+      "Codigo": 54084
+    },
+    {
+      "Departamento": "Oberá",
+      "Codigo": 54091
+    },
+    {
+      "Departamento": "San Ignacio",
+      "Codigo": 54098
+    },
+    {
+      "Departamento": "San Javier",
+      "Codigo": 54105
+    },
+    {
+      "Departamento": "San Pedro",
+      "Codigo": 54112
+    }
+  ],
+  "Neuquén": [
+    {
+      "Departamento": "Aluminé",
+      "Codigo": 58007
+    },
+    {
+      "Departamento": "Añelo",
+      "Codigo": 58014
+    },
+    {
+      "Departamento": "Catán Lil",
+      "Codigo": 58021
+    },
+    {
+      "Departamento": "Chos Malal",
+      "Codigo": 58042
+    },
+    {
+      "Departamento": "Collón Curá",
+      "Codigo": 58028
+    },
+    {
+      "Departamento": "Confluencia",
+      "Codigo": 58035
+    },
+    {
+      "Departamento": "Huiliches",
+      "Codigo": 58049
+    },
+    {
+      "Departamento": "Lácar",
+      "Codigo": 58056
+    },
+    {
+      "Departamento": "Loncopué",
+      "Codigo": 58063
+    },
+    {
+      "Departamento": "Los Lagos",
+      "Codigo": 58070
+    },
+    {
+      "Departamento": "Minas",
+      "Codigo": 58077
+    },
+    {
+      "Departamento": "Ñorquín",
+      "Codigo": 58084
+    },
+    {
+      "Departamento": "Pehuenches",
+      "Codigo": 58091
+    },
+    {
+      "Departamento": "Picún Leufú",
+      "Codigo": 58098
+    },
+    {
+      "Departamento": "Picunches",
+      "Codigo": 58105
+    },
+    {
+      "Departamento": "Zapala",
+      "Codigo": 58112
+    }
+  ],
+  "Río Negro": [
+    {
+      "Departamento": "25 de Mayo",
+      "Codigo": 62091
+    },
+    {
+      "Departamento": "9 de Julio",
+      "Codigo": 62049
+    },
+    {
+      "Departamento": "Adolfo Alsina",
+      "Codigo": 62007
+    },
+    {
+      "Departamento": "Avellaneda",
+      "Codigo": 62014
+    },
+    {
+      "Departamento": "Bariloche",
+      "Codigo": 62021
+    },
+    {
+      "Departamento": "Conesa",
+      "Codigo": 62028
+    },
+    {
+      "Departamento": "El Cuy",
+      "Codigo": 62035
+    },
+    {
+      "Departamento": "General Roca",
+      "Codigo": 62042
+    },
+    {
+      "Departamento": "Ñorquinco",
+      "Codigo": 62056
+    },
+    {
+      "Departamento": "Pichi Mahuida",
+      "Codigo": 62063
+    },
+    {
+      "Departamento": "Pilcaniyeu",
+      "Codigo": 62070
+    },
+    {
+      "Departamento": "San Antonio",
+      "Codigo": 62077
+    },
+    {
+      "Departamento": "Valcheta",
+      "Codigo": 62084
+    }
+  ],
+  "Salta": [
+    {
+      "Departamento": "Anta",
+      "Codigo": 66007
+    },
+    {
+      "Departamento": "Cachi",
+      "Codigo": 66014
+    },
+    {
+      "Departamento": "Cafayate",
+      "Codigo": 66021
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 66028
+    },
+    {
+      "Departamento": "Cerrillos",
+      "Codigo": 66035
+    },
+    {
+      "Departamento": "Chicoana",
+      "Codigo": 66042
+    },
+    {
+      "Departamento": "General Güemes",
+      "Codigo": 66049
+    },
+    {
+      "Departamento": "General José de San Martín",
+      "Codigo": 66056
+    },
+    {
+      "Departamento": "Guachipas",
+      "Codigo": 66063
+    },
+    {
+      "Departamento": "Iruya",
+      "Codigo": 66070
+    },
+    {
+      "Departamento": "La Caldera",
+      "Codigo": 66077
+    },
+    {
+      "Departamento": "La Candelaria",
+      "Codigo": 66084
+    },
+    {
+      "Departamento": "La Poma",
+      "Codigo": 66091
+    },
+    {
+      "Departamento": "La Viña",
+      "Codigo": 66098
+    },
+    {
+      "Departamento": "Los Andes",
+      "Codigo": 66105
+    },
+    {
+      "Departamento": "Metán",
+      "Codigo": 66112
+    },
+    {
+      "Departamento": "Molinos",
+      "Codigo": 66119
+    },
+    {
+      "Departamento": "Orán",
+      "Codigo": 66126
+    },
+    {
+      "Departamento": "Rivadavia",
+      "Codigo": 66133
+    },
+    {
+      "Departamento": "Rosario de la Frontera",
+      "Codigo": 66140
+    },
+    {
+      "Departamento": "Rosario de Lerma",
+      "Codigo": 66147
+    },
+    {
+      "Departamento": "San Carlos",
+      "Codigo": 66154
+    },
+    {
+      "Departamento": "Santa Victoria",
+      "Codigo": 66161
+    }
+  ],
+  "San Juan": [
+    {
+      "Departamento": "25 de Mayo",
+      "Codigo": 70126
+    },
+    {
+      "Departamento": "9 de Julio",
+      "Codigo": 70063
+    },
+    {
+      "Departamento": "Albardón",
+      "Codigo": 70007
+    },
+    {
+      "Departamento": "Angaco",
+      "Codigo": 70014
+    },
+    {
+      "Departamento": "Calingasta",
+      "Codigo": 70021
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 70028
+    },
+    {
+      "Departamento": "Caucete",
+      "Codigo": 70035
+    },
+    {
+      "Departamento": "Chimbas",
+      "Codigo": 70042
+    },
+    {
+      "Departamento": "Iglesia",
+      "Codigo": 70049
+    },
+    {
+      "Departamento": "Jáchal",
+      "Codigo": 70056
+    },
+    {
+      "Departamento": "Pocito",
+      "Codigo": 70070
+    },
+    {
+      "Departamento": "Rawson",
+      "Codigo": 70077
+    },
+    {
+      "Departamento": "Rivadavia",
+      "Codigo": 70084
+    },
+    {
+      "Departamento": "San Martín",
+      "Codigo": 70091
+    },
+    {
+      "Departamento": "Santa Lucía",
+      "Codigo": 70098
+    },
+    {
+      "Departamento": "Sarmiento",
+      "Codigo": 70105
+    },
+    {
+      "Departamento": "Ullum",
+      "Codigo": 70112
+    },
+    {
+      "Departamento": "Valle Fértil",
+      "Codigo": 70119
+    },
+    {
+      "Departamento": "Zonda",
+      "Codigo": 70133
+    }
+  ],
+  "San Luis": [
+    {
+      "Departamento": "Ayacucho",
+      "Codigo": 74007
+    },
+    {
+      "Departamento": "Belgrano",
+      "Codigo": 74014
+    },
+    {
+      "Departamento": "Chacabuco",
+      "Codigo": 74028
+    },
+    {
+      "Departamento": "Coronel Pringles",
+      "Codigo": 74021
+    },
+    {
+      "Departamento": "General Pedernera",
+      "Codigo": 74035
+    },
+    {
+      "Departamento": "Gobernador Dupuy",
+      "Codigo": 74042
+    },
+    {
+      "Departamento": "Juan Martín de Pueyrredón",
+      "Codigo": 74056
+    },
+    {
+      "Departamento": "Junín",
+      "Codigo": 74049
+    },
+    {
+      "Departamento": "Libertador General San Martín",
+      "Codigo": 74063
+    }
+  ],
+  "Santa Cruz": [
+    {
+      "Departamento": "Corpen Aike",
+      "Codigo": 78007
+    },
+    {
+      "Departamento": "Deseado",
+      "Codigo": 78014
+    },
+    {
+      "Departamento": "Güer Aike",
+      "Codigo": 78021
+    },
+    {
+      "Departamento": "Lago Argentino",
+      "Codigo": 78028
+    },
+    {
+      "Departamento": "Lago Buenos Aires",
+      "Codigo": 78035
+    },
+    {
+      "Departamento": "Magallanes",
+      "Codigo": 78042
+    },
+    {
+      "Departamento": "Río Chico",
+      "Codigo": 78049
+    }
+  ],
+  "Santa Fe": [
+    {
+      "Departamento": "9 de Julio",
+      "Codigo": 82077
+    },
+    {
+      "Departamento": "Belgrano",
+      "Codigo": 82007
+    },
+    {
+      "Departamento": "Caseros",
+      "Codigo": 82014
+    },
+    {
+      "Departamento": "Castellanos",
+      "Codigo": 82021
+    },
+    {
+      "Departamento": "Constitución",
+      "Codigo": 82028
+    },
+    {
+      "Departamento": "Garay",
+      "Codigo": 82035
+    },
+    {
+      "Departamento": "General López",
+      "Codigo": 82042
+    },
+    {
+      "Departamento": "General Obligado",
+      "Codigo": 82049
+    },
+    {
+      "Departamento": "Iriondo",
+      "Codigo": 82056
+    },
+    {
+      "Departamento": "La Capital",
+      "Codigo": 82063
+    },
+    {
+      "Departamento": "Las Colonias",
+      "Codigo": 82070
+    },
+    {
+      "Departamento": "Rosario",
+      "Codigo": 82084
+    },
+    {
+      "Departamento": "San Cristóbal",
+      "Codigo": 82091
+    },
+    {
+      "Departamento": "San Javier",
+      "Codigo": 82098
+    },
+    {
+      "Departamento": "San Jerónimo",
+      "Codigo": 82105
+    },
+    {
+      "Departamento": "San Justo",
+      "Codigo": 82112
+    },
+    {
+      "Departamento": "San Lorenzo",
+      "Codigo": 82119
+    },
+    {
+      "Departamento": "San Martín",
+      "Codigo": 82126
+    },
+    {
+      "Departamento": "Vera",
+      "Codigo": 82133
+    }
+  ],
+  "Santiago del Estero": [
+    {
+      "Departamento": "Aguirre",
+      "Codigo": 86007
+    },
+    {
+      "Departamento": "Alberdi",
+      "Codigo": 86014
+    },
+    {
+      "Departamento": "Atamisqui",
+      "Codigo": 86021
+    },
+    {
+      "Departamento": "Avellaneda",
+      "Codigo": 86028
+    },
+    {
+      "Departamento": "Banda",
+      "Codigo": 86035
+    },
+    {
+      "Departamento": "Belgrano",
+      "Codigo": 86042
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 86049
+    },
+    {
+      "Departamento": "Choya",
+      "Codigo": 86063
+    },
+    {
+      "Departamento": "Copo",
+      "Codigo": 86056
+    },
+    {
+      "Departamento": "Figueroa",
+      "Codigo": 86070
+    },
+    {
+      "Departamento": "General Taboada",
+      "Codigo": 86077
+    },
+    {
+      "Departamento": "Guasayán",
+      "Codigo": 86084
+    },
+    {
+      "Departamento": "Jiménez",
+      "Codigo": 86091
+    },
+    {
+      "Departamento": "Juan Felipe Ibarra",
+      "Codigo": 86098
+    },
+    {
+      "Departamento": "Loreto",
+      "Codigo": 86105
+    },
+    {
+      "Departamento": "Mitre",
+      "Codigo": 86112
+    },
+    {
+      "Departamento": "Moreno",
+      "Codigo": 86119
+    },
+    {
+      "Departamento": "Ojo de Agua",
+      "Codigo": 86126
+    },
+    {
+      "Departamento": "Pellegrini",
+      "Codigo": 86133
+    },
+    {
+      "Departamento": "Quebrachos",
+      "Codigo": 86140
+    },
+    {
+      "Departamento": "Río Hondo",
+      "Codigo": 86147
+    },
+    {
+      "Departamento": "Rivadavia",
+      "Codigo": 86154
+    },
+    {
+      "Departamento": "Robles",
+      "Codigo": 86161
+    },
+    {
+      "Departamento": "Salavina",
+      "Codigo": 86168
+    },
+    {
+      "Departamento": "San Martín",
+      "Codigo": 86175
+    },
+    {
+      "Departamento": "Sarmiento",
+      "Codigo": 86182
+    },
+    {
+      "Departamento": "Silípica",
+      "Codigo": 86189
+    }
+  ],
+  "Tierra del Fuego, Antártida e Islas del Atlántico Sur": [
+    {
+      "Departamento": "Antártida Argentina",
+      "Codigo": 94028
+    },
+    {
+      "Departamento": "Islas del Atlántico Sur",
+      "Codigo": 94021
+    },
+    {
+      "Departamento": "Río Grande",
+      "Codigo": 94008
+    },
+    {
+      "Departamento": "Tolhuin",
+      "Codigo": 94011
+    },
+    {
+      "Departamento": "Ushuaia",
+      "Codigo": 94015
+    }
+  ],
+  "Tucumán": [
+    {
+      "Departamento": "Burruyacú",
+      "Codigo": 90007
+    },
+    {
+      "Departamento": "Capital",
+      "Codigo": 90084
+    },
+    {
+      "Departamento": "Chicligasta",
+      "Codigo": 90021
+    },
+    {
+      "Departamento": "Cruz Alta",
+      "Codigo": 90014
+    },
+    {
+      "Departamento": "Famaillá",
+      "Codigo": 90028
+    },
+    {
+      "Departamento": "Graneros",
+      "Codigo": 90035
+    },
+    {
+      "Departamento": "Juan Bautista Alberdi",
+      "Codigo": 90042
+    },
+    {
+      "Departamento": "La Cocha",
+      "Codigo": 90049
+    },
+    {
+      "Departamento": "Leales",
+      "Codigo": 90056
+    },
+    {
+      "Departamento": "Lules",
+      "Codigo": 90063
+    },
+    {
+      "Departamento": "Monteros",
+      "Codigo": 90070
+    },
+    {
+      "Departamento": "Río Chico",
+      "Codigo": 90077
+    },
+    {
+      "Departamento": "Simoca",
+      "Codigo": 90091
+    },
+    {
+      "Departamento": "Tafí del Valle",
+      "Codigo": 90098
+    },
+    {
+      "Departamento": "Tafí Viejo",
+      "Codigo": 90105
+    },
+    {
+      "Departamento": "Trancas",
+      "Codigo": 90112
+    },
+    {
+      "Departamento": "Yerba Buena",
+      "Codigo": 90119
+    }
+  ]
+}
